@@ -3,7 +3,7 @@
 | No | Questions | 
 | --- | --- |
 || **Hackerone Reports** | 
-| 1 | [Make Lower case to Capital](https://www.google.com/search?client=firefox-b-d&q=idor+full+form) | 
+| 1 | [IDOR leads to Edit Anyone's Blogs](https://hackerone.com/reports/974222) | 
 | 2 | [Make Capital case to Lower](#make-capital-case-to-lower)|
 | 3 | [Convert Decimal to Hexa Decimal](#decimal-to-hexa-decimal)|
 | 4 | [Sum 2 numbers from inputs](#sum-2-numbers-from-inputs)|
