@@ -1,6 +1,6 @@
 <h1 align="center">Insecure direct object references (IDOR)</h1>
 
-| No | Questions | 
+| No | Titles | 
 | --- | --- |
 || **Hackerone Reports** | 
 | 1 | [IDOR leads to Edit Anyone's Blogs](https://hackerone.com/reports/974222) | 
