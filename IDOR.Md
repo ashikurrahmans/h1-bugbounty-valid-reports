@@ -1,8 +1,7 @@
 <h1 align="center">Insecure direct object references (IDOR)</h1>
 
-| No | Titles | 
+| No | **Hackerone Reports** | 
 | --- | --- |
-|| **Hackerone Reports** | 
 | 1 | [IDOR leads to Edit Anyone's Blogs](https://hackerone.com/reports/974222) | 
 | 2 | [Make Capital case to Lower](#make-capital-case-to-lower)|
 | 3 | [Convert Decimal to Hexa Decimal](#decimal-to-hexa-decimal)|
