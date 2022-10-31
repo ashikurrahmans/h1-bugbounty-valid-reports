@@ -7,6 +7,9 @@
 | 3 | [Bypassing IDOR via Parameter Pollution](https://0xgaurang.medium.com/case-study-bypassing-idor-via-parameter-pollution-78f7b3f9f59d)|
 | 4 | [IDOR and statistics leakage in Orders](https://hackerone.com/reports/544329)|
 | 5 | [IDOR Leads To Leak Any Uber Eats Restaurant Analytics](https://0xprial.com/idor-leads-to-leak-any-uber-eats-restaurant-analytics/)|
+| 6 | [Confirm Other users Account](https://hackerone.com/reports/349291)|
+| 7 | [Survey Report IDOR (check the video on report) ](https://hackerone.com/reports/915127)|
+
 
 
 
