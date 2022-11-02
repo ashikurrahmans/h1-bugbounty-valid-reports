@@ -9,7 +9,7 @@
 | 5 | [IDOR Leads To Leak Any Uber Eats Restaurant Analytics](https://0xprial.com/idor-leads-to-leak-any-uber-eats-restaurant-analytics/)|
 | 6 | [Confirm Other users Account](https://hackerone.com/reports/349291)|
 | 7 | [Survey Report IDOR (check the video on report) ](https://hackerone.com/reports/915127)|
-
+| 7 | [Ability to add arbitrary images/descriptions/titles to ohter people's issues via IDOR (Check Video)) ](https://hackerone.com/reports/1096560)|
 
 
 
